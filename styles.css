@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+table{
+    border: 2px solid black;
+    margin: 5px;
+    padding: 6px;
+}
